@@ -6,7 +6,7 @@ package Acme::CPANModules::PERLANCAR::Dummy;
 # VERSION
 
 our $LIST = {
-    summary => 'A dummy Acme::CPANModules list for testing',
+    summary => 'A dummy Acme::CPANModules list for various testing',
     entry_features => {
         foo => {summary=>'Foo feature (bool)'},
         bar => {summary=>'Bar feature (bool)'},
